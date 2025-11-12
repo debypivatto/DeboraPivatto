@@ -15,5 +15,7 @@ Visualisation & BI: Tableau, Power BI, Streamlit, Dash
 Analytics: Data cleaning, Exploratory Data Analysis, Hypothesis Testing, A/B Testing
 Productivity: Excel / Google Sheets
 Soft skills: Project coordination, Problem-solving, Communication, Cross-cultural teamwork
+
 Idiomas: Português (nativo), Inglês (fluente).
-Cidadania: Europeia (Passaporte Italiano).
+
+Cidadania: Brasileira e Europeia (Passaporte Italiano).
