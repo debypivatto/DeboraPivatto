@@ -21,7 +21,19 @@ Essa nova fase me permite unir minha experiência em saúde à tecnologia e **co
 ---
 
 ## 💼 Tecnologias & Ferramentas
+<p align="left">
+  <!-- Languages & Data -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets"/>
 
+  <!-- Visualisation & BI -->
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Dash-119DFF?style=for-the-badge&logo=plotly&logoColor=white" alt="Dash"/>
+</p>
 - **Linguagens:** Python, SQL  
 - **Visualização:** Tableau, Power BI, Excel  
 - **Manutenção de dados:** limpeza, tratamento, automação  
