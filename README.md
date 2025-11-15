@@ -51,6 +51,11 @@ Cada projeto aplica fluxos de trabalho analíticos reais utilizando Python, SQL,
 
 Observação: Os projetos utilizam conjuntos de dados públicos ou educacionais e representam cenários de negócios simulados.
 
+* #### 🎥 [Análise de Vídeos no YouTube](https://github.com/debypivatto/Analise-de-videos-YouTube-no-Tableau-Public)
+**Análise em Tabelou **Vídeos noYouTube**, explorando *categorias, popularidade, e dinamicas de tempo**.
+ Feito com Tableau Public **iTableau Publico com dashboard interativo** para visualizar tendências globais and preferências regionais (US, France, India, Japan, Russia).
+ O fluxo de trabalho abrangeu **agregação de dados, transformação, design de painéis, integração de filtros** e **extração de insights**.
+  [Live Tableau Dashboard]([(https://public.tableau.com/app/profile/debora.pivatto/viz/Sprint12project/Dashboard1?publish=yes)] · [Presentation (PDF)]()
 ---
 
 🗣️ **Idiomas:** Português (nativo), Inglês (fluente)  
