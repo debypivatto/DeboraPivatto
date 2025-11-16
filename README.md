@@ -67,7 +67,7 @@ Este projeto tem como objetivo analisar o comportamento dos clientes de uma acad
 🛠️ Tecnologias Utilizadas
 A análise combina EDA (Exploratory Data Analysis), Machine Learning supervisionado (Regressão Logística) e Aprendizado Não Supervisionado (K-Means).
 
-* #### 📌 Zuber — Análise de Corridas de Táxi em Chicago (https://github.com/debypivatto/Analise-de-Informacoes-sobre-corridas-de-taxi-em-Chicago)**
+* #### 🚖 Zuber — Análise de Corridas de Táxi em Chicago (https://github.com/debypivatto/Analise-de-Informacoes-sobre-corridas-de-taxi-em-Chicago)**
 
 Este projeto tem como objetivo analisar dados históricos de corridas de táxi da cidade para entender perfil da Zuber -uma nova empresa de compartilhamento de caronas que está sendo lançada em Chicago. Padrões de demanda, preferências dos passageiros (bairros mais populares como destino), comportamento de empresas concorrentes e impacto das condições meteorológicas na duração das viagens são alguns dos items analisados. Utilizamos um banco de dados contendo tabelas de clima, viagens, bairros e empresas de táxi, além de análises estatísticas e visualizações em Python.
 Foi também testada a hipótese:
