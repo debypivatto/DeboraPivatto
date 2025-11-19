@@ -47,7 +47,7 @@ Essa nova fase me permite unir minha experiência em saúde à tecnologia e **co
 - **Linguagens:** Python, SQL  
 - **Visualização:** Tableau, Power BI, Excel  
 - **Manutenção de dados:** limpeza, tratamento, automação  
-- **Outros:** Git, GitHub, boas práticas de análise de dados  
+- **Outros:** Git, GitHub, boas práticas de análise de dados
 
 ---
 
