@@ -77,6 +77,7 @@ Tableau Publico
 Estudo conduzido para avaliar a viabilidade de implantação de uma cafeteria modelo com garçons robotizados.
 Incluiu:Tratamento e limpeza dos dados, Análise Exploratória (EDA), Avaliação das condições de mercado em Los Angeles e Identificação de oportunidades e riscos
 Iniciando com o objetivo de verificar a viabilidade de uma cafeteria modelo com garçons robotizados, tratamento, passando pela Análise Exploratória dos Dados (EDA - Exploratory Data Analysis), Análise das condições de mercado de restaurantes em Los Angeles, com apresentação PDF  [https://github.com/debypivatto/Analise-de-Perfis-de-Restaurantes-em-Los-Angeles-LA-/blob/main/Cafeterias%20LA.pdf]
+
 🛠️ Tecnologias e Bibliotecas Utilizadas
 * O projeto foi desenvolvido em Python, utilizando as seguintes bibliotecas:
 Pandas → manipulação e limpeza de dados
@@ -87,6 +88,7 @@ Jupyter Notebook → ambiente de desenvolvimento e análise
 * #### 🏋️‍♀️ Análise de Clientes em uma Academia  (https://github.com/debypivatto/Analise-de-Clientes-numa-Academia)**
 
 Este projeto tem como objetivo analisar o comportamento dos clientes de uma academia, identificar fatores que influenciam o churn (evasão) e propor estratégias por meio de modelagem preditiva e segmentação de clientes.
+
 🛠️ Tecnologias e Bibliotecas Utilizadas
 A análise combina EDA (Exploratory Data Analysis), Machine Learning supervisionado (Regressão Logística) e Aprendizado Não Supervisionado (K-Means).
 * O projeto foi desenvolvido em Python, utilizando as seguintes bibliotecas:
@@ -99,6 +101,7 @@ SKlearn
 Este projeto tem como objetivo analisar dados históricos de corridas de táxi da cidade para entender perfil da Zuber -uma nova empresa de compartilhamento de caronas que está sendo lançada em Chicago. Padrões de demanda, preferências dos passageiros (bairros mais populares como destino), comportamento de empresas concorrentes e impacto das condições meteorológicas na duração das viagens são alguns dos items analisados. Utilizamos um banco de dados contendo tabelas de clima, viagens, bairros e empresas de táxi, além de análises estatísticas e visualizações em Python.
 Foi também testada a hipótese:
 “A duração média das corridas do Loop para o Aeroporto O’Hare muda em sábados chuvosos.”
+
 🛠️  Tecnologias e Bibliotecas Utilizadas
 * O projeto foi desenvolvido em Python, utilizando as seguintes bibliotecas:
 Pandas → manipulação e limpeza de dados
