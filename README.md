@@ -65,7 +65,7 @@ Análise em Tableau Vídeos noYouTube, explorando categorias, popularidade, e di
 O projeto foi desenvolvido em Python, utilizando as seguintes bibliotecas:
 Pandas → manipulação e limpeza de dados
 Tableau
- O fluxo de trabalho abrangeu agregação de dados, transformação, design de painéis, integração de filtros e extração de insights. [Live Tableau Dashboard]([(https://public.tableau.com/app/profile/debora.pivatto/viz/Sprint12project/Dashboard1?publish=yes)] · Presentation (PDF)
+ O fluxo de trabalho abrangeu agregação de dados, transformação, design de painéis, integração de filtros e extração de insights. [Live Tableau Dashboard]([(https://public.tableau.com/app/profile/debora.pivatto/viz/Sprint12project/Dashboard1?publish=yes)] · Presentation (https://github.com/debypivatto/Analise-de-videos-YouTube-no-Tableau-Public/blob/main/Analise_Tendencias_Videos_YouTube_2017_2018%20(1)%20(1).pptx) (PPTX)
 
 * #### ☕ Análise de Restaurantes em Los Angeles (https://github.com/debypivatto/Analise-de-Perfis-de-Restaurantes-em-Los-Angeles-LA-)**
 
