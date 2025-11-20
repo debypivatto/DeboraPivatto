@@ -66,7 +66,8 @@ Análise em Tableau Vídeos no YouTube, explorando categorias, popularidade, e d
 Feito com Tableau Public Tableau Público com dashboard interativo para visualizar tendências globais and preferências regionais (USA, França, India, Japão, Russia). 
 
 🛠️ Tecnologias e Bibliotecas Utilizadas:
-* O projeto foi desenvolvido em Python, utilizando as seguintes bibliotecas:
+--
+O projeto foi desenvolvido em Python, utilizando as seguintes bibliotecas:
 Pandas → manipulação e limpeza de dados
 O fluxo de trabalho abrangeu agregação de dados, transformação, design de painéis, integração de filtros e extração de insights. 
 Tableau Publico
@@ -81,7 +82,8 @@ Incluiu:Tratamento e limpeza dos dados, Análise Exploratória (EDA), Avaliaçã
 Iniciando com o objetivo de verificar a viabilidade de uma cafeteria modelo com garçons robotizados, tratamento, passando pela Análise Exploratória dos Dados (EDA - Exploratory Data Analysis), Análise das condições de mercado de restaurantes em Los Angeles, com apresentação PDF  [https://github.com/debypivatto/Analise-de-Perfis-de-Restaurantes-em-Los-Angeles-LA-/blob/main/Cafeterias%20LA.pdf]
 
 🛠️ Tecnologias e Bibliotecas Utilizadas:
-* O projeto foi desenvolvido em Python, utilizando as seguintes bibliotecas:
+--
+O projeto foi desenvolvido em Python, utilizando as seguintes bibliotecas:
 
 Pandas → manipulação e limpeza de dados
 
@@ -97,9 +99,9 @@ Jupyter Notebook → ambiente de desenvolvimento e análise
 Este projeto tem como objetivo analisar o comportamento dos clientes de uma academia, identificar fatores que influenciam o churn (evasão) e propor estratégias por meio de modelagem preditiva e segmentação de clientes.
 
 🛠️ Tecnologias e Bibliotecas Utilizadas:
-
+--
 A análise combina EDA (Exploratory Data Analysis), Machine Learning supervisionado (Regressão Logística) e Aprendizado Não Supervisionado (K-Means).
-* O projeto foi desenvolvido em Python, utilizando as seguintes bibliotecas:
+O projeto foi desenvolvido em Python, utilizando as seguintes bibliotecas:
 Pandas → manipulação e limpeza de dados
 Jupyter Notebook — ambiente de análise
 SKlearn
@@ -112,7 +114,8 @@ Foi também testada a hipótese:
 “A duração média das corridas do Loop para o Aeroporto O’Hare muda em sábados chuvosos.”
 
 🛠️ Tecnologias e Bibliotecas Utilizadas:
-* O projeto foi desenvolvido em Python, utilizando as seguintes bibliotecas:
+--
+O projeto foi desenvolvido em Python, utilizando as seguintes bibliotecas:
 Pandas → manipulação e limpeza de dados
 NumPy → cálculos estatísticos e operações numéricas
 Matplotlib e Seaborn → visualizações gráficas e análises exploratórias
