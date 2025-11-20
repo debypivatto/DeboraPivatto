@@ -64,16 +64,19 @@ Observação: Os projetos utilizam conjuntos de dados públicos ou educacionais 
 * #### 🎥 Análise de Vídeos no YouTube (https://github.com/debypivatto/Analise-de-videos-YouTube-no-Tableau-Public)**
 
 Análise de tendências globais e regionais (EUA, França, Índia, Japão, Rússia) sobre categorias, popularidade e padrões de engajamento de vídeos no YouTube.
-Tecnologias: Pandas, Tableau Public
 Etapas: agregação, transformação, design de dashboard e insights de negócio.
 
-🔗 **Dashboard:**(https://public.tableau.com/app/profile/debora.pivatto/viz/Sprint12project/Dashboard1?publish=yes))
-📊 [**YouTube Videos Dashboard Apresentacao PPTX**](https://github.com/debypivatto/Analise-de-videos-YouTube-no-Tableau-Public/blob/main/Analise_Tendencias_Videos_YouTube_2017_2018%20(1)%20(1).pptx)
+Tecnologias: Pandas, Tableau Public
+
+🔗 Dashboard:(https://public.tableau.com/app/profile/debora.pivatto/viz/Sprint12project/Dashboard1?publish=yes))
+📊 [YouTube Videos Dashboard Apresentacao PPTX**](https://github.com/debypivatto/Analise-de-videos-YouTube-no-Tableau-Public/blob/main/Analise_Tendencias_Videos_YouTube_2017_2018%20(1)%20(1).pptx)
+
 ---
 
 * #### ☕ Análise de Restaurantes em Los Angeles (https://github.com/debypivatto/Analise-de-Perfis-de-Restaurantes-em-Los-Angeles-LA-)**
 
 Estudo de mercado para avaliar a implantação de uma cafeteria com garçons robotizados em Los Angeles. Realizado EDA, segmentação de perfis, avaliação de concorrência e análise de riscos.
+
 Tecnologias: Pandas, NumPy, Matplotlib, Seaborn
 Entrega: relatório completo com insights estratégicos, apresentação PDF  [https://github.com/debypivatto/Analise-de-Perfis-de-Restaurantes-em-Los-Angeles-LA-/blob/main/Cafeterias%20LA.pdf]
 
@@ -82,6 +85,7 @@ Entrega: relatório completo com insights estratégicos, apresentação PDF  [ht
 * #### 🏋️‍♀️ Análise de Clientes de uma Academia — Churn Prediction  (https://github.com/debypivatto/Analise-de-Clientes-numa-Academia)**
 
 Modelagem preditiva para identificar fatores associados ao churn e segmentação de clientes via EDA, Regressão Logística e K-Means.
+
 Tecnologias: Pandas, Scikit-Learn, Jupyter Notebook
 
 ---
@@ -89,6 +93,7 @@ Tecnologias: Pandas, Scikit-Learn, Jupyter Notebook
 * #### 🚖 Zuber — Análise de Corridas de Táxi em Chicago (https://github.com/debypivatto/Analise-de-Informacoes-sobre-corridas-de-taxi-em-Chicago)**
 
 Estudo de padrões de viagem, bairros mais populares, comportamento dos concorrentes e impacto da chuva na duração das corridas (teste de hipótese aplicado).
+
 Tecnologias: Pandas, NumPy, Matplotlib, Seaborn
 
 ---
