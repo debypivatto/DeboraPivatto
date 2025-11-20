@@ -64,6 +64,7 @@ Observação: Os projetos utilizam conjuntos de dados públicos ou educacionais 
 
 Análise em Tableau Vídeos no YouTube, explorando categorias, popularidade, e dinâmicas de tempo.
 Feito com Tableau Public Tableau Público com dashboard interativo para visualizar tendências globais and preferências regionais (USA, França, India, Japão, Russia). 
+
 🛠️ Tecnologias e Bibliotecas Utilizadas:
 * O projeto foi desenvolvido em Python, utilizando as seguintes bibliotecas:
 Pandas → manipulação e limpeza de dados
