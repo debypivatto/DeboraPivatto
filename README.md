@@ -1,4 +1,4 @@
-<p align="center">
+#<p align="center">
   <img src="pic.jpg" width="98%" alt="Debora Pivatto – Data Analyst">
 </p>
 
@@ -82,9 +82,13 @@ Iniciando com o objetivo de verificar a viabilidade de uma cafeteria modelo com 
 
 🛠️ Tecnologias e Bibliotecas Utilizadas:
 * O projeto foi desenvolvido em Python, utilizando as seguintes bibliotecas:
+
 Pandas → manipulação e limpeza de dados
+
 NumPy → cálculos estatísticos e operações numéricas
+
 Matplotlib e Seaborn → visualizações gráficas e análises exploratórias
+
 Jupyter Notebook → ambiente de desenvolvimento e análise
 ---
 
